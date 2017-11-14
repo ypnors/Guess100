@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
         Button Send = (Button) findViewById(R.id.send);
         TextView Secret = (TextView) findViewById(R.id.secret);
         TextView Info = (TextView)findViewById(R.id.info);
+        
     }
 }
